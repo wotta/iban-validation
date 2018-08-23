@@ -7,7 +7,7 @@
         "iban",
         "validation"
     ],
-    "license": "Moz illa Public License 2.0",
+    "license": "MPL-2.0",
     "authors": [
         {
             "name": "Wouter van Marrum",
