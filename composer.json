@@ -1,11 +1,19 @@
 {
-    "name": "wotta/IbanValidation",
+    "name": "wotta/iban-validation",
     "description": "A Laravel Nova iban field.",
     "keywords": [
         "laravel",
-        "nova"
+        "nova",
+        "iban",
+        "validation",
     ],
-    "license": "MIT",
+    "license": "Mozilla Public License 2.0",
+    "authors": [
+        {
+            "name": "Wouter van Marrum",
+            "email": "wouter.van.marrum@protonmail.com"
+        }
+    ],
     "require": {
         "php": ">=7.1.0"
     },
