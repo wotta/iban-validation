@@ -5,9 +5,9 @@
         "laravel",
         "nova",
         "iban",
-        "validation",
+        "validation"
     ],
-    "license": "Mozilla Public License 2.0",
+    "license": "Moz illa Public License 2.0",
     "authors": [
         {
             "name": "Wouter van Marrum",
